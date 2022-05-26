@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class Add {
+public class Add {
+    public static void main(String[] args) {
+
+        int a=6;
+        int b=5;
+        System.out.println(a+b);
+    }
 }
